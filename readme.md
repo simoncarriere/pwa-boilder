@@ -3,7 +3,7 @@
 Progessive web apps enable powerful ways of integrating native like features into our websites. As these will become more common practice, this project is meant to accelerate the process of creating your first service worker and initializing dynamic and static cache stores.
 
 # Setup - Open using http
-### Manifest.json and sw.js should always be in project root
+* Manifest.json and sw.js should always be in project root *
 
 **1. Update assets in Manifest.json**
 - Update Name and theme colours
